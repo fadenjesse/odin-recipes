@@ -1,11 +1,16 @@
 * {
+    text-align: center;
     background-color:rgb(216, 245, 51);
-    font-family: Helvetica, sans-serif
+    font-family: "Courier New", sans-serif
 }
 li  {
     color:rgb(17, 71, 122);
     font-size: 36px
 }
 h1 {
-    font-size: 56px
+    font-size: 56px;
+    font-weight: 800
+}
+div {
+    text-align: center;
 }
