@@ -2,6 +2,10 @@
     background-color:rgb(216, 245, 51);
     font-family: Helvetica, sans-serif
 }
-li, h1 {
-    color:rgb(17, 71, 122)
+li  {
+    color:rgb(17, 71, 122);
+    font-size: 36px
+}
+h1 {
+    font-size: 56px
 }
