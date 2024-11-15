@@ -6,6 +6,12 @@
 li  {
     color:rgb(17, 71, 122);
     font-size: 36px
+    padding: 0;
+    display: flex;
+    font-size: 24px;
+    flex-grow: 2;
+    flex-basis: 50px;
+    
 }
 h1 {
     font-size: 56px;
@@ -13,4 +19,14 @@ h1 {
 }
 div {
     text-align: center;
+}
+ul {
+    margin: auto;
+    display: flex;
+    gap: 1rem;
+    text-align: center;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
 }
